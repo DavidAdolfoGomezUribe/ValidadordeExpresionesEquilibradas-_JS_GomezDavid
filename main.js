@@ -45,11 +45,11 @@ function limitbrackets(character){
     } 
 
 
-    else if (!(character.includes("({[") &&  character.includes("]})") )){
-        console.log(" ({[]}) " + "it´s equilibrated")
-        return true
+    // else if (!(character.includes("({[") &&  character.includes("]})") )){
+    //     console.log(" ({[]}) " + "it´s equilibrated")
         
-    }
+        
+    // }
     //     console.log(" ({[]}) " + "it´s equilibrated")
     //     return true
 
